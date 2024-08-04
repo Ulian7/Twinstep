@@ -476,6 +476,7 @@
 "Assets/FImpossible Creations/Shared Tools/GUI Helpers/FGUI_Inspector.cs"
 "Assets/FImpossible Creations/Shared Tools/GUI Helpers/FGUI_Resources.cs"
 "Assets/PlayerControls.cs"
+"Assets/PlayerFollower.cs"
 "Assets/PolygonFantasyHeroCharacters/Scripts/CharacterRandomizer.cs"
 "Assets/Scripts/Managers/AnimatorManager.cs"
 "Assets/Scripts/Player/AnimatorHandler.cs"

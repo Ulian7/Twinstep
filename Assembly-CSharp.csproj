@@ -188,6 +188,7 @@
     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Ragdoll Animator 2\Helper Components\RA2IgnoreCollidersCollision.cs" />
     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Ragdoll Animator 2\Core\Ragdoll User Utilities\RagdollHandlerUtils.Impacts.cs" />
     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Ragdoll Animator 2\Core\Ragdoll Animator Features\RAF_IgnoreSelfDummyColliders.cs" />
+    <Compile Include="Assets\PlayerFollower.cs" />
     <Compile Include="Assets\FImpossible Creations\Plugins - Animating\Ragdoll Animator 2\Helper Components\RA2MagnetPoint.cs" />
     <Compile Include="Assets\Toolkits\Rope\Examples\00_Main\SoftBackdrop\SoftBackdrop.cs" />
     <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_PropertiesFoldoutAttribute.cs" />
